@@ -1,25 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+// შექმენი რეაქტის პროექტი create-react-app პაკეტის გამოყენებით.
+// შექმენი კომპონენტი, რომელიც გამოაჩენს წიგნის სურათს, წიგნის სათაურს, მოკლე აღწერას, პერსონაჟების სახელებს (შეიძლება იყოს ბევრი). ინფორმაცია უნდა გადაეწოდოს გარედან პარამეტრების სახით, სურათის შემთხვევაში - ლინკი. ვიზუალი, როგორიც გსურს.
+// ამავე კომპონენტში გამოაჩინე ღილაკი. ღილაკზე დაჭერით უნდა გამოიძახებოდეს ფუნქცია, რომელიც გადაეწოდება კომპონენტს პარამეტრად. ფუნქცია უნდა ბეჭდავდეს შესაფერისი წიგნის სათაურს და პერსონაჟებს, ბეჭდვისთვის გამოიყენე console.log()
+
+import CardList from "./components/CardList";
+import './App.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  <div>
+    <CardList />
+  </div>
+  )
 }
+
 
 export default App;
