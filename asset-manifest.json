@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hw-react-002/static/css/main.fb640fa6.css",
+    "main.js": "/hw-react-002/static/js/main.2201eb13.js",
+    "static/js/787.03096c00.chunk.js": "/hw-react-002/static/js/787.03096c00.chunk.js",
+    "static/media/iliko.jpeg": "/hw-react-002/static/media/iliko.b519bda97dcf092413d9.jpeg",
+    "static/media/ilarioni.jpeg": "/hw-react-002/static/media/ilarioni.65820f7421f7e1b47d06.jpeg",
+    "static/media/diplomi.webp": "/hw-react-002/static/media/diplomi.47b3f11b69354df9f39d.webp",
+    "static/media/zurikela.jpeg": "/hw-react-002/static/media/zurikela.1529491b0b3412388b01.jpeg",
+    "index.html": "/hw-react-002/index.html",
+    "main.fb640fa6.css.map": "/hw-react-002/static/css/main.fb640fa6.css.map",
+    "main.2201eb13.js.map": "/hw-react-002/static/js/main.2201eb13.js.map",
+    "787.03096c00.chunk.js.map": "/hw-react-002/static/js/787.03096c00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb640fa6.css",
+    "static/js/main.2201eb13.js"
+  ]
+}
